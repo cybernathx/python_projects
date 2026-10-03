@@ -1,0 +1,10 @@
+{
+    "firewall_enabled": true,
+    "max_login_attempts": 5,
+    "allowed_ports": [
+        22,
+        80,
+        443
+    ],
+    "admin_email": "admin@example.com"
+}

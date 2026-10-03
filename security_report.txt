@@ -1,0 +1,13 @@
+
+==== SECURITY LOG REPORT ====
+
+Total events: 13
+Successful logins: 2
+Failed logins: 11
+Unique IP addresses: 6
+
+Failed login attempts by IP:
+  192.168.1.20: 3
+  192.168.1.40: 2
+  192.168.1.50: 4
+  192.168.1.60: 2
